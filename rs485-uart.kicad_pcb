@@ -113,11 +113,11 @@
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(subtractmaskfromsilk no)
-			(outputformat 1)
+			(outputformat 4)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "outputs/")
 		)
 	)
 	(net 0 "")
@@ -4320,7 +4320,7 @@
 			(justify right bottom mirror)
 		)
 	)
-	(gr_text "RX"
+	(gr_text "→RX"
 		(at 133.5 71.909 0)
 		(layer "F.SilkS")
 		(uuid "055f9542-8306-40f6-9fcd-7b40c89ee0a6")
@@ -4358,7 +4358,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "RX"
+	(gr_text "→RX"
 		(at 133.5 74.449 0)
 		(layer "F.SilkS")
 		(uuid "4e818c5f-f837-468e-aa70-92154f7ddef9")
@@ -4397,7 +4397,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TX"
+	(gr_text "←TX"
 		(at 133.5 69.369 0)
 		(layer "F.SilkS")
 		(uuid "882bbcd7-90d6-40b9-ae8c-2ef585f18bc2")
@@ -4498,7 +4498,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TX"
+	(gr_text "←TX"
 		(at 133.5 66.829 0)
 		(layer "F.SilkS")
 		(uuid "f9127b49-9ca6-4613-9e11-7d9722e70015")
